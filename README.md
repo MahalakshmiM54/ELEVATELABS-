@@ -10,14 +10,11 @@
 - Seaborn
 - Scikit-learn
 
----
-
 ## Dataset
 We are using the **Titanic Dataset** from Kaggle.
 
 [Click here to download the dataset](https://www.kaggle.com/competitions/titanic/data)
 
----
 
 ##  Steps Covered
 
@@ -40,12 +37,10 @@ We are using the **Titanic Dataset** from Kaggle.
    - Visualized `Age` outliers using boxplots.
    - Removed outliers using the IQR method.
 
----
 
 ## Output
 - Cleaned dataset ready for machine learning models.
 
----
 
 ##  Interview Questions Covered
 
@@ -57,8 +52,6 @@ We are using the **Titanic Dataset** from Kaggle.
 6. One-hot encoding vs label encoding?
 7. How to handle data imbalance?
 8. Can preprocessing affect model accuracy?
-
----
 
 ##  How to Run
 1. Clone the repo:
